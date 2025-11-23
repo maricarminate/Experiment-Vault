@@ -1,6 +1,8 @@
 ExperimentVault 🔬
+
 A comprehensive MLOps platform for experiment tracking, versioning, and comparison. Track your machine learning experiments with full reproducibility, parameter management, and collaborative features.
 Features
+
 ✨ Core Features:
 
 📊 Experiment tracking with automatic Git integration
